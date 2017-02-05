@@ -26,19 +26,23 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 ## Aulas
 
+#### Aula 1
+* [Exercícios](https://gist.github.com/mrezende/788289758ec5139d6300a77f21c3dcfe)
+
+
+
 ## Projeto Final
 
 ## Avaliação Final
-
 
 ```
 NF: (N1 + 3 * N2)/4
 
 NF >= 5 && FM >= 85% => aprovado
 
-NF: Nota Final
-FM: Frequência mínima
-N1: Nota da lista de exercícios
-N2: Nota do Projeto final
+NF: Nota Final, [0, 10]
+FM: Frequência mínima, [0, 100%]
+N1: Nota dos exercícios vistos em aula, [0, 10]
+N2: Nota do Projeto final, [0, 10]
 
 ```
