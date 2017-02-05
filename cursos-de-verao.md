@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Introdução a Desenvolvimento Web com PHP
 permalink: /curso-php/
 ---
