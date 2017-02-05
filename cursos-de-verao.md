@@ -33,6 +33,8 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 ## Projeto Final
 
+**Prazo máximo para entrega:** 05/Março
+
 ## Avaliação Final
 
 ```
