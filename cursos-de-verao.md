@@ -23,3 +23,22 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 **Período Inicial:** 06/02/2017
 
 **Período Final:** 17/02/2017
+
+## Aulas
+
+## Projeto Final
+
+## Avaliação Final
+
+
+```
+NF: (N1 + 3 * N2)/4
+
+NF >= 5 && FM >= 85% => aprovado
+
+NF: Nota Final
+FM: Frequência mínima
+N1: Nota da lista de exercícios
+N2: Nota do Projeto final
+
+```
