@@ -17,6 +17,9 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 **Carga horária:** 40 horas
 
 **Horário:** Segunda, Terça, Quarta, Quinta e Sexta das 19:00 às 23:00;
+
 **Sala:** CEC-06
+
 **Período Inicial:** 06/02/2017
+
 **Período Final:** 17/02/2017
