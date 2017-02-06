@@ -29,7 +29,7 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 #### Aula 1
 * [Exercícios](https://gist.github.com/mrezende/788289758ec5139d6300a77f21c3dcfe)
 
-
+[Exercícios de OO](https://gist.github.com/mrezende/0e766190493fd6bc0b8b7ffdd7e99300)
 
 ## Projeto Final
 
