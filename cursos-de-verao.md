@@ -31,6 +31,28 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 * [Exercícios de OO](https://gist.github.com/mrezende/0e766190493fd6bc0b8b7ffdd7e99300)
 
+## Alunos
+
+Nome do Aluno | github profile
+------------- | --------------
+Airton Vilela | https://github.com/vilela1966
+André César de Jesus Gaspar | https://github.com/tonycasper
+António Martins Miranda |
+Bartira Kio Kamiya | https://github.com/bkamiya
+Ezequias Dos Reis da Silva | https://github.com/ezequias-silva
+Fabio Glock Bellegard | https://github.com/fabiobellegard
+Gabriel Nunes da Silva | https://github.com/gabrielns
+Henrique Ramos | https://github.com/maza-php16
+Hercules Freitas | https://github.com/hrvfreitas
+Luiz Antonio Campos | https://github.com/luiz7686
+Luiz Destefano | https://github.com/luizdestefano
+Marcelo Modesto | https://github.com/marcelomodesto
+Raphael Monteiro da Silva Ettel | https://github.com/raphaelettel
+Renan Barbosa | https://github.com/renan03barbosa
+Renato C. Mascheti | https://github.com/Renat89
+Ruan Silveira dos Santos | https://github.com/ruansilveira
+Vinicius de Athaydes Sanfilippo | https://github.com/viniciussanfilippo
+
 ## Projeto Final
 
 **Prazo máximo para entrega:** 05/Março
