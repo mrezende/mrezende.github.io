@@ -27,9 +27,13 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 ## Aulas
 
 #### Aula 1
-* [Exercícios](https://gist.github.com/mrezende/788289758ec5139d6300a77f21c3dcfe)
+* [Exercícios de lógica](https://gist.github.com/mrezende/788289758ec5139d6300a77f21c3dcfe)
+
+#### Aula 2
 
 * [Exercícios de OO](https://gist.github.com/mrezende/0e766190493fd6bc0b8b7ffdd7e99300)
+* [Exercícios de Agregação, Associação e Composição](https://gist.github.com/mrezende/a8ca3c7ea47aba794cb25ce30f552566)
+* [Exercícios de métodos](https://gist.github.com/mrezende/5ad5a4488b6b16f479114d0063366d51)
 
 ## Alunos
 
