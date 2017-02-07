@@ -33,25 +33,25 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 ## Alunos
 
-Nome do Aluno | github profile
+Nome | Github profile
 ------------- | --------------
-Airton Vilela | https://github.com/vilela1966
-André César de Jesus Gaspar | https://github.com/tonycasper
+Airton Vilela | [vilela1966](https://github.com/vilela1966)
+André César de Jesus Gaspar | [tonycasper](https://github.com/tonycasper)
 António Martins Miranda |
-Bartira Kio Kamiya | https://github.com/bkamiya
-Ezequias Dos Reis da Silva | https://github.com/ezequias-silva
-Fabio Glock Bellegard | https://github.com/fabiobellegard
-Gabriel Nunes da Silva | https://github.com/gabrielns
-Henrique Ramos | https://github.com/maza-php16
-Hercules Freitas | https://github.com/hrvfreitas
-Luiz Antonio Campos | https://github.com/luiz7686
-Luiz Destefano | https://github.com/luizdestefano
-Marcelo Modesto | https://github.com/marcelomodesto
-Raphael Monteiro da Silva Ettel | https://github.com/raphaelettel
-Renan Barbosa | https://github.com/renan03barbosa
-Renato C. Mascheti | https://github.com/Renat89
-Ruan Silveira dos Santos | https://github.com/ruansilveira
-Vinicius de Athaydes Sanfilippo | https://github.com/viniciussanfilippo
+Bartira Kio Kamiya | [bkamiya](https://github.com/bkamiya)
+Ezequias Dos Reis da Silva | [ezequias-silva](https://github.com/ezequias-silva)
+Fabio Glock Bellegard | [fabiobellegard](https://github.com/fabiobellegard)
+Gabriel Nunes da Silva | [gabrielns](https://github.com/gabrielns)
+Henrique Ramos | [maza-php16](https://github.com/maza-php16)
+Hercules Freitas | [hrvfreitas](https://github.com/hrvfreitas)
+Luiz Antonio Campos | [luiz7686](https://github.com/luiz7686)
+Luiz Destefano | [luizdestefano](https://github.com/luizdestefano)
+Marcelo Modesto | [marcelomodesto](https://github.com/marcelomodesto)
+Raphael Monteiro da Silva Ettel | [raphaelettel](https://github.com/raphaelettel)
+Renan Barbosa | [renan03barbosa](https://github.com/renan03barbosa)
+Renato C. Mascheti | [Renat89](https://github.com/Renat89)
+Ruan Silveira dos Santos | [ruansilveira](https://github.com/ruansilveira)
+Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/viniciussanfilippo)
 
 ## Projeto Final
 
