@@ -70,3 +70,12 @@ N1: Nota dos exercícios vistos em aula, [0, 10]
 N2: Nota do Projeto final, [0, 10]
 
 ```
+
+## Referências
+
+* [Conteúdo sobre OO e MVC, apostilas K11, K31 e K32](http://www.k19.com.br)
+* [PHP](http://php.net/manual/en/langref.php)
+* [Guia prático do GIT](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Bootstrap](http://getbootstrap.com/)
+* [Laravel](https://laravel.com/docs/5.4/)
+* [Sass Basic](http://sass-lang.com/guide)
