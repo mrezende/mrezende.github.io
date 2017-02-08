@@ -41,21 +41,26 @@ Nome | Github profile
 ------------- | --------------
 Airton Vilela | [vilela1966](https://github.com/vilela1966)
 André César de Jesus Gaspar | [tonycasper](https://github.com/tonycasper)
-António Martins Miranda |
+António Martins Miranda | [mirstation](https://github.com/MirStation)
 Bartira Kio Kamiya | [bkamiya](https://github.com/bkamiya)
+Caio Augusto | [caionog1](https://github.com/Caionog1)
 Ezequias Dos Reis da Silva | [ezequias-silva](https://github.com/ezequias-silva)
+Fabio Frascino | [ffrascino](https://github.com/ffrascino)
 Fabio Glock Bellegard | [fabiobellegard](https://github.com/fabiobellegard)
+Felipe Fonseca Trindade | [felipeftrindade](https://github.com/felipeftrindade)
 Gabriel Nunes da Silva | [gabrielns](https://github.com/gabrielns)
 Henrique Ramos | [maza-php16](https://github.com/maza-php16)
 Hercules Freitas | [hrvfreitas](https://github.com/hrvfreitas)
 Luiz Antonio Campos | [luiz7686](https://github.com/luiz7686)
 Luiz Destefano | [luizdestefano](https://github.com/luizdestefano)
+Luiz Henrique | [luizhata](https://github.com/luizhata)
 Marcelo Modesto | [marcelomodesto](https://github.com/marcelomodesto)
 Raphael Monteiro da Silva Ettel | [raphaelettel](https://github.com/raphaelettel)
 Renan Barbosa | [renan03barbosa](https://github.com/renan03barbosa)
 Renato C. Mascheti | [Renat89](https://github.com/Renat89)
 Ruan Silveira dos Santos | [ruansilveira](https://github.com/ruansilveira)
 Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/viniciussanfilippo)
+
 
 ## Projeto Final
 
