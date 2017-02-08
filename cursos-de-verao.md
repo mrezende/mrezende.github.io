@@ -35,7 +35,6 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 #### Aula 3
 * [Exercícios de agregação, associação e composição](https://gist.github.com/mrezende/a8ca3c7ea47aba794cb25ce30f552566)
-* [Exercícios de referências como parâmetros](https://gist.github.com/mrezende/ad22bf0e4a7da251302c3b2430a0ec61)
 * [Exercícios de métodos](https://gist.github.com/mrezende/5ad5a4488b6b16f479114d0063366d51)
 
 
