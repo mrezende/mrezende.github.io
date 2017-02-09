@@ -37,7 +37,11 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 * [Exercícios de agregação, associação e composição](https://gist.github.com/mrezende/a8ca3c7ea47aba794cb25ce30f552566)
 * [Exercícios de métodos](https://gist.github.com/mrezende/5ad5a4488b6b16f479114d0063366d51)
 * [Exercícios de construtores](https://gist.github.com/mrezende/3b21b6ee2b34e3d12e0bacefc9314f44)
+
+#### Aula 4
 * [Exercícios de arrays](https://gist.github.com/mrezende/36ef5601db040e7c3fad1ec8113aa8ee)
+* [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
+* [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
 
 ## Alunos
 
