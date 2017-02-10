@@ -98,7 +98,9 @@ N2: Nota do Projeto final, [0, 10]
 composer global require "laravel/installer"
 
 echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
+
 ```
+
 ## Referências
 
 * [Conteúdo sobre OO e MVC, apostilas K11, K31 e K32](http://www.k19.com.br)
