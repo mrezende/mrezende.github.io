@@ -41,7 +41,12 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 #### Aula 4
 * [Exercícios de arrays](https://gist.github.com/mrezende/36ef5601db040e7c3fad1ec8113aa8ee)
 * [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
+
+#### Aula 5
 * [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
+
+* [Exercícios do primeiro projeto com Laravel](https://gist.github.com/mrezende/1c72b77db845696da8bce55aea00acc3)
+
 
 ## Alunos
 
@@ -88,6 +93,13 @@ N2: Nota do Projeto final, [0, 10]
 
 ```
 
+# Instalação Laravel Linux
+
+```sh
+composer global require "laravel/installer"
+
+echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
+```
 ## Referências
 
 * [Conteúdo sobre OO e MVC, apostilas K11, K31 e K32](http://www.k19.com.br)
