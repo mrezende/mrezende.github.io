@@ -76,7 +76,38 @@ Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/vinici
 
 ## Projeto Final
 
+### Projeto 1 - Laboratório
+
+Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basicamente 4 entidades:
+
+* Paciente
+* Médico
+* Exame
+* Pedido
+
+![Laboratory Entity Relationship Diagram](http://www.k19.com.br/laboratorio.png)
+
+
+
+### Projeto 2 - Curso de verão
+
+Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as entidades são:
+
+* Aluno
+* Professor
+* Curso
+* Turma
+* Inscricao
+
+![Summer School Entity Relationship Diagram](http://www.k19.com.br/curso-verao.png)
+
+### Projeto 3 - Livre
+
+Crie um sistema de cadastro utilizando o Laravel, o contexto da aplicação pode ser livre. O único requisito é ter no mínimo **4 (quatro) entidades** e pelo menos **2 (duas) entidades** devem relacionar-se entre si através de um relacionamento **1-1**, **1-N** ou **N-N**.
+
 **Prazo máximo para entrega:** 05/Março
+
+**Divulgação das notas finais:** 10/Março
 
 ## Avaliação Final
 
