@@ -76,20 +76,7 @@ Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/vinici
 
 ## Projeto Final
 
-### Projeto 1 - Laboratório
-
-Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basicamente 4 entidades:
-
-* Paciente
-* Médico
-* Exame
-* Pedido
-
-![Laboratory Entity Relationship Diagram](http://www.k19.com.br/laboratorio.png)
-
-
-
-### Projeto 2 - Curso de verão
+### Projeto 1 - Curso de verão
 
 Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as entidades são:
 
@@ -100,6 +87,17 @@ Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as enti
 * Inscricao
 
 ![Summer School Entity Relationship Diagram](http://www.k19.com.br/curso-verao.png)
+
+### Projeto 2 - Laboratório
+
+Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basicamente 4 entidades:
+
+* Paciente
+* Médico
+* Exame
+* Pedido
+
+![Laboratory Entity Relationship Diagram](http://www.k19.com.br/laboratorio.png)
 
 ### Projeto 3 - Livre
 
