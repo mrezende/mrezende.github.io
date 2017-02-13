@@ -47,7 +47,7 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 #### Aula 6
 * [Exercícios do primeiro projeto com Laravel](https://gist.github.com/mrezende/1c72b77db845696da8bce55aea00acc3)
-* [Exercícios sobre views](https://gist.github.com/mrezende/59f78c082accf6ad57fcef8ded32fc28)
+
 
 
 ## Alunos
