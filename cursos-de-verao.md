@@ -95,6 +95,39 @@ Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as enti
 
 ![Summer School Entity Relationship Diagram](http://www.k19.com.br/curso-verao.png)
 
+##### Entrega
+
+Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
+
+[Tarefa curso de verão](https://classroom.github.com/assignment-invitations/8fbdc51169d0002ad503d7883504261f)
+
+Após clicar na tarefa, basta seguir os passos abaixo:
+
+1 - Fazer o download do repositório criado:
+
+```sh
+git clone https://github.com/summer-school-ime-usp-2017/final-project-curso-verao-<USUARIO_GITHUB>.git
+
+```
+
+2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
+
+```sh
+composer install
+```
+
+3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
+
+```sh
+# linux
+cp .env.example .env
+
+#windows
+copy .env.example .env
+```
+
+Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
+
 ### Projeto 2 - Laboratório
 
 Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basicamente 4 entidades:
@@ -106,9 +139,74 @@ Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basica
 
 ![Laboratory Entity Relationship Diagram](http://www.k19.com.br/laboratorio.png)
 
+##### Entrega
+
+Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
+
+[Tarefa laboratório](https://classroom.github.com/assignment-invitations/a9ef6c927c5fac38672cb0d65fb801c4)
+
+Após clicar na tarefa, basta seguir os passos abaixo:
+
+1 - Fazer o download do repositório criado:
+
+```sh
+git clone https://github.com/summer-school-ime-usp-2017/final-project-laboratorio-<USUARIO_GITHUB>.git
+
+```
+
+2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
+
+```sh
+composer install
+```
+
+3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
+
+```sh
+# linux
+cp .env.example .env
+
+#windows
+copy .env.example .env
+```
+
+Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
+
 ### Projeto 3 - Livre
 
 Crie um sistema de cadastro utilizando o Laravel, o contexto da aplicação pode ser livre. O único requisito é ter no mínimo **4 (quatro) entidades** e pelo menos **2 (duas) entidades** devem relacionar-se entre si através de um relacionamento **1-1**, **1-N** ou **N-N**.
+
+##### Entrega
+
+Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
+
+[Tarefa projeto livre](https://classroom.github.com/assignment-invitations/f94b980a36bd4f44c41248ac93d7c889)
+
+Após clicar na tarefa, basta seguir os passos abaixo:
+
+1 - Fazer o download do repositório criado:
+
+```sh
+git clone https://github.com/summer-school-ime-usp-2017/final-project-projeto-livre-<USUARIO_GITHUB>.git
+```
+
+2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
+
+```sh
+composer install
+```
+
+3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
+
+```sh
+# linux
+cp .env.example .env
+
+#windows
+copy .env.example .env
+```
+
+Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
 
 **Prazo máximo para entrega:** 05/Março
 
