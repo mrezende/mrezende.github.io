@@ -126,6 +126,22 @@ cp .env.example .env
 copy .env.example .env
 ```
 
+4 - Gere a chave e limpe a configuração:
+
+```sh
+php artisan key:generate
+
+php artisan config:clear
+```
+
+5 - Execute o servidor e verifique que está rodando normalmente:
+
+```
+php artisan serve
+```
+
+Acesse http://localhost:8000.
+
 Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
 
 ### Projeto 2 - Laboratório
@@ -170,6 +186,22 @@ cp .env.example .env
 copy .env.example .env
 ```
 
+4 - Gere a chave e limpe a configuração:
+
+```sh
+php artisan key:generate
+
+php artisan config:clear
+```
+
+5 - Execute o servidor e verifique que está rodando normalmente:
+
+```
+php artisan serve
+```
+
+Acesse http://localhost:8000.
+
 Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
 
 ### Projeto 3 - Livre
@@ -205,6 +237,23 @@ cp .env.example .env
 #windows
 copy .env.example .env
 ```
+
+4 - Gere a chave e limpe a configuração:
+
+```sh
+php artisan key:generate
+
+php artisan config:clear
+```
+
+5 - Execute o servidor e verifique que está rodando normalmente:
+
+```
+php artisan serve
+```
+
+Acesse http://localhost:8000.
+
 
 Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
 
