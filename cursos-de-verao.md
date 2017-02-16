@@ -68,6 +68,7 @@ André César de Jesus Gaspar | [tonycasper](https://github.com/tonycasper)
 António Martins Miranda | [mirstation](https://github.com/MirStation)
 Bartira Kio Kamiya | [bkamiya](https://github.com/bkamiya)
 Caio Augusto | [caionog1](https://github.com/Caionog1)
+Eduardo Alencar Lino da Silva | (eduardoalencarlino)[https://github.com/eduardoalencarlino]
 Ezequias Dos Reis da Silva | [ezequias-silva](https://github.com/ezequias-silva)
 Fabio Frascino | [ffrascino](https://github.com/ffrascino)
 Fabio Glock Bellegard | [fabiobellegard](https://github.com/fabiobellegard)
@@ -76,6 +77,7 @@ Gabriel Nunes da Silva | [gabrielns](https://github.com/gabrielns)
 Henrique Ramos | [maza-php16](https://github.com/maza-php16)
 Hercules Freitas | [hrvfreitas](https://github.com/hrvfreitas)
 Luiz Antonio Campos | [luiz7686](https://github.com/luiz7686)
+Luis Carlos de Souza | [luiscarlosdesouza](https://github.com/luiscarlosdesouza)
 Luiz Destefano | [luizdestefano](https://github.com/luizdestefano)
 Luiz Henrique | [luizhata](https://github.com/luizhata)
 Marcelo Modesto | [marcelomodesto](https://github.com/marcelomodesto)
@@ -84,6 +86,7 @@ Renan Barbosa | [renan03barbosa](https://github.com/renan03barbosa)
 Renato C. Mascheti | [Renat89](https://github.com/Renat89)
 Ruan Silveira dos Santos | [ruansilveira](https://github.com/ruansilveira)
 Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/viniciussanfilippo)
+Wagner de Oliveira Filho | [wagnerdeoliveira](https://github.com/wagnerdeoliveira)
 
 
 ## Projeto Final
@@ -288,6 +291,18 @@ composer global require "laravel/installer"
 echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
 
 ```
+
+# Instalação Laravel windows
+
+By @maza-php16
+
+Instalar o XAMPP. Basta acessar: https://www.apachefriends.org/pt_br/index.html
+
+Instalar o composer a partir do site https://getcomposer.org/
+
+Basta instalar o Laravel utilizando as dicas deste site:
+http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html
+
 
 ## Referências
 
