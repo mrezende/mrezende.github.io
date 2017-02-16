@@ -68,7 +68,7 @@ André César de Jesus Gaspar | [tonycasper](https://github.com/tonycasper)
 António Martins Miranda | [mirstation](https://github.com/MirStation)
 Bartira Kio Kamiya | [bkamiya](https://github.com/bkamiya)
 Caio Augusto | [caionog1](https://github.com/Caionog1)
-Eduardo Alencar Lino da Silva | (eduardoalencarlino)[https://github.com/eduardoalencarlino]
+Eduardo Alencar Lino da Silva | [eduardoalencarlino](https://github.com/eduardoalencarlino)
 Ezequias Dos Reis da Silva | [ezequias-silva](https://github.com/ezequias-silva)
 Fabio Frascino | [ffrascino](https://github.com/ffrascino)
 Fabio Glock Bellegard | [fabiobellegard](https://github.com/fabiobellegard)
@@ -294,7 +294,7 @@ echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
 
 # Instalação Laravel windows
 
-By @maza-php16
+By [@maza-php16](https://github.com/maza-php16)
 
 Instalar o XAMPP. Basta acessar: https://www.apachefriends.org/pt_br/index.html
 
