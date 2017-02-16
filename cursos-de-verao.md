@@ -292,16 +292,16 @@ echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
 
 ```
 
-# Instalação Laravel windows
+# Instalação Laravel Windows
 
 By [@maza-php16](https://github.com/maza-php16)
 
-Instalar o XAMPP. Basta acessar: https://www.apachefriends.org/pt_br/index.html
+Instalar o XAMPP. Basta acessar o site [https://www.apachefriends.org/pt_br/index.html](https://www.apachefriends.org/pt_br/index.html)
 
-Instalar o composer a partir do site https://getcomposer.org/
+Instalar o composer a partir do site [https://getcomposer.org/](https://getcomposer.org/)
 
 Basta instalar o Laravel utilizando as dicas deste site:
-http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html
+[http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html](http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html)
 
 
 ## Referências
