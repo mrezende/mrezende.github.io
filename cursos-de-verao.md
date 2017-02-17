@@ -56,8 +56,13 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 #### Aula 8
 * [Exercícios sobre Eloquent](https://gist.github.com/mrezende/af431c5ce7380563968bda5e64c223e0)
+
+#### Aula 9
 * [Exercícios sobre controller](https://gist.github.com/mrezende/5ec5490ef8343634162d1d06389d515a)
+
+#### Aula 10
 * [Exercícios sobre validacao](https://gist.github.com/mrezende/fabfdb0d896899e3240768edab4c41c1)
+* [Exercícios sobre sessão](https://gist.github.com/mrezende/bea31a782bc92086928025102b5b7242)
 
 ## Alunos
 
