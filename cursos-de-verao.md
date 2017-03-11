@@ -94,9 +94,8 @@ RMSE | 100 | 2.5
 RBS | 100 | 2.5
 RCM | 100 | 6.25
 RSS | 100 | 1.25
-VAS | 100 |
+VAS | 100 | 6.25
 WOF | 90 | 2.5
-
 
 ## Projeto Final
 
