@@ -64,34 +64,38 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 * [Exercícios sobre validacao](https://gist.github.com/mrezende/fabfdb0d896899e3240768edab4c41c1)
 * [Exercícios sobre sessão](https://gist.github.com/mrezende/bea31a782bc92086928025102b5b7242)
 
-## Alunos
+## Notas Finais
 
-Nome | Github profile
-------------- | --------------
-Airton Vilela | [vilela1966](https://github.com/vilela1966)
-André César de Jesus Gaspar | [tonycasper](https://github.com/tonycasper)
-António Martins Miranda | [mirstation](https://github.com/MirStation)
-Bartira Kio Kamiya | [bkamiya](https://github.com/bkamiya)
-Caio Augusto | [caionog1](https://github.com/Caionog1)
-Eduardo Alencar Lino da Silva | [eduardoalencarlino](https://github.com/eduardoalencarlino)
-Ezequias Dos Reis da Silva | [ezequias-silva](https://github.com/ezequias-silva)
-Fabio Frascino | [ffrascino](https://github.com/ffrascino)
-Fabio Glock Bellegard | [fabiobellegard](https://github.com/fabiobellegard)
-Felipe Fonseca Trindade | [felipeftrindade](https://github.com/felipeftrindade)
-Gabriel Nunes da Silva | [gabrielns](https://github.com/gabrielns)
-Henrique Ramos | [maza-php16](https://github.com/maza-php16)
-Hercules Freitas | [hrvfreitas](https://github.com/hrvfreitas)
-Luiz Antonio Campos | [luiz7686](https://github.com/luiz7686)
-Luis Carlos de Souza | [luiscarlosdesouza](https://github.com/luiscarlosdesouza)
-Luiz Destefano | [luizdestefano](https://github.com/luizdestefano)
-Luiz Henrique | [luizhata](https://github.com/luizhata)
-Marcelo Modesto | [marcelomodesto](https://github.com/marcelomodesto)
-Raphael Monteiro da Silva Ettel | [raphaelettel](https://github.com/raphaelettel)
-Renan Barbosa | [renan03barbosa](https://github.com/renan03barbosa)
-Renato C. Mascheti | [Renat89](https://github.com/Renat89)
-Ruan Silveira dos Santos | [ruansilveira](https://github.com/ruansilveira)
-Vinicius de Athaydes Sanfilippo | [viniciussanfilippo](https://github.com/viniciussanfilippo)
-Wagner de Oliveira Filho | [wagnerdeoliveira](https://github.com/wagnerdeoliveira)
+INICIAIS | Frequência | Nota Final
+------------- | -------------- | -------------
+AA | 90 | 1.25
+ATO | 0 | 0
+ACJG | 90 | 1.25
+AATMM | 100 | 7
+BKK | 100 | 6.25
+CANO | 70 | 0
+EALS | 70 | 0
+ERS | 100 | 6.25
+FF | 100 | 0
+FGB | 70 | 0
+FFT | 100 | 10
+FO | 0 | 0
+GNS | 100 | 2.5
+HADAR | 100 | 5
+HRVF | 100 | 1.5
+JGS | 10 | 0
+LCS | 100 | 1.75
+LASDMC | 0 | 0
+LADJ | 100 | 1.5
+LHHN | 90 | 2.5
+MM | 100 | 6.25
+PI | 0 | 0
+RMSE | 100 | 2.5
+RBS | 100 | 2.5
+RCM | 100 | 6.25
+RSS | 100 | 1.25
+VAS | 100 |
+WOF | 90 | 2.5
 
 
 ## Projeto Final
@@ -271,8 +275,6 @@ Acesse http://localhost:8000.
 Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
 
 **Prazo máximo para entrega:** 05/Março
-
-**Divulgação das notas finais:** 10/Março
 
 ## Avaliação Final
 
