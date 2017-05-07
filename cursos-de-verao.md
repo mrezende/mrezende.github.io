@@ -64,38 +64,6 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 * [Exercícios sobre validacao](https://gist.github.com/mrezende/fabfdb0d896899e3240768edab4c41c1)
 * [Exercícios sobre sessão](https://gist.github.com/mrezende/bea31a782bc92086928025102b5b7242)
 
-## Notas Finais
-
-INICIAIS | Frequência | Nota Final
-------------- | -------------- | -------------
-AA | 90 | 1.25
-ATO | 0 | 0
-ACJG | 90 | 1.25
-AATMM | 100 | 7
-BKK | 100 | 6.25
-CANO | 70 | 0
-EALS | 70 | 0
-ERS | 100 | 6.25
-FF | 100 | 0
-FGB | 70 | 0
-FFT | 100 | 10
-FO | 0 | 0
-GNS | 100 | 2.5
-HADAR | 100 | 5
-HRVF | 100 | 1.5
-JGS | 10 | 0
-LCS | 100 | 1.75
-LASDMC | 0 | 0
-LADJ | 100 | 1.5
-LHHN | 90 | 2.5
-MM | 100 | 6.25
-PI | 0 | 0
-RMSE | 100 | 2.5
-RBS | 100 | 2.5
-RCM | 100 | 6.25
-RSS | 100 | 1.25
-VAS | 100 | 6.25
-WOF | 90 | 2.5
 
 ## Projeto Final
 
@@ -109,7 +77,7 @@ Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as enti
 * Turma
 * Inscricao
 
-![Summer School Entity Relationship Diagram](http://www.k19.com.br/curso-verao.png)
+![Summer School Entity Relationship Diagram](https://mrezende.github.io/assets/curso-verao.png)
 
 ##### Entrega
 
@@ -169,7 +137,7 @@ Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basica
 * Exame
 * Pedido
 
-![Laboratory Entity Relationship Diagram](http://www.k19.com.br/laboratorio.png)
+![Laboratory Entity Relationship Diagram](https://mrezende.github.io/assets/laboratorio.png)
 
 ##### Entrega
 
