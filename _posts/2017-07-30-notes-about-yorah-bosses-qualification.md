@@ -20,6 +20,4 @@ After that, she gave a lecture of 8 weeks for some students with poor grade. The
 
 And another thing, she has collected 40000 codes of students from University of Sao Paulo and she will develop a system to analyze all of them and try to find some patterns of difficulties.
 
-So, the Yorah Bosse's research is very interesting and those kind of researchers you have a lot of paths you could follow. But she found a interesting path and it will be very interesting if she could find a reasonable answer for it. I would like to see what are the most common student's errors when they are learning how to program.
-
-  
+So, the Yorah Bosse's research is very interesting and has a lot of paths she could follow. But she found a interesting path and it will be very interesting if she could find a reasonable answer for it. I would like to see what are the most common student's errors when they are learning how to program. It will help me a lot as a teacher.
