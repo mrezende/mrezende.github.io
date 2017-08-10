@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Notes about Yorah Bosse's Qualification"
-date:   2017-07-30 16:16:01 -0600
-categories: master degree learning difficulties
+date:   2017-07-30 16:16:01 -0300
+categories: phd learning difficulties introduction program
 ---
 Yorah Bosse's qualification has a lot of questions, but for me the main question she is trying to answer is *what are the most common errors that students are committing when they are trying to learn how to program*.
 
