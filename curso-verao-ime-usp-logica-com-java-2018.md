@@ -37,7 +37,7 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.urionlinejudge.com.br). Para mais informações sobre como ter acesso a lista, basta ver os tutoriais disponibilizados através de vídeos abaixo.
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
+{% include youtubePlayer.html id="dQw4w9WgXcQ" %}
 
 
 
