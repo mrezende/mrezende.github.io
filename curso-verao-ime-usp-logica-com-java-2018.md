@@ -1,0 +1,46 @@
+---
+layout: default
+title: Introdução ao Desenvolvimento de Sistemas Web com PHP
+permalink: /curso-verao-ime-usp-logica-com-java-2018/
+---
+
+# Curso de Verão 2018
+
+## Lógica de Programação com Java
+
+O objetivo do curso é abordar os conceitos básicos de programação. Estes conceitos serão abordados através da linguagem Java. Este curso é essencial para quem deseja ingressar na área de programação e desenvolvimento de software.
+
+**Conteúdo programático:**
+1. Introdução
+2. Algoritmos
+3. Variáveis
+4. Operadores
+5. Controle de Fluxo
+6. Array
+7. Funções ou Métodos
+
+**Pré-Requisitos:** Familiaridade com algum sistema operacional (Windows, Linux ou MAC OS X).
+
+**Público:** Interessados em atuar como programadores.
+
+**Carga horária:** 30 horas
+
+**Horário:** Segunda, Terça, Quarta, Quinta e Sexta das 19:00 às 22:00;
+
+**Sala:** B-05
+
+**Período Inicial:** 04/01/2018
+
+**Período Final:** 17/01/2018
+
+
+
+
+## Referências
+
+* [Summer School Entity Relationship Diagram](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
+* [PHP](http://php.net/manual/en/langref.php)
+* [Guia prático do GIT](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Bootstrap](http://getbootstrap.com/)
+* [Laravel](https://laravel.com/docs/5.4/)
+* [Sass Basic](http://sass-lang.com/guide)
