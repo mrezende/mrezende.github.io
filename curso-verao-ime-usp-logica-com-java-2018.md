@@ -38,9 +38,4 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 ## Referências
 
-* [Summer School Entity Relationship Diagram](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
-* [PHP](http://php.net/manual/en/langref.php)
-* [Guia prático do GIT](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Bootstrap](http://getbootstrap.com/)
-* [Laravel](https://laravel.com/docs/5.4/)
-* [Sass Basic](http://sass-lang.com/guide)
+* [Apostila de lógica de programação em Java - K19](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
