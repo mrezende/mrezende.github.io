@@ -48,8 +48,6 @@ Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.
 Lembre-se, para acessar a lista de exercícios é necessário enviar o seu **ID** do URI Online Judge para mim.
 {% include youtubePlayer.html id="vh_61jmlGfA" %}
 
-
-
 ## Referências
 
 * [Apostila de lógica de programação em Java - K19](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
