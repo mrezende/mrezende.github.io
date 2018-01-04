@@ -37,7 +37,16 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.urionlinejudge.com.br). Para mais informações sobre como ter acesso a lista, basta ver os tutoriais disponibilizados através de vídeos abaixo.
 
-{% include youtubePlayer.html id="dQw4w9WgXcQ" %}
+### Fazendo o cadastro no URI Online Judge
+{% include youtubePlayer.html id="qIDpG61jzvk" %}
+
+### Primeiro acesso ao URI Online Judge após confirmar o cadastro
+{% include youtubePlayer.html id="8rxkIyOrwt0" %}
+
+### Acessando a lista de exercícios após enviar o ID para o professor
+
+Lembre-se, para acessar a lista de exercícios é necessário enviar o seu **ID** do URI Online Judge para mim.
+{% include youtubePlayer.html id="vh_61jmlGfA" %}
 
 
 
