@@ -57,6 +57,11 @@ Lembre-se, para acessar a lista de exercícios é necessário enviar o seu **ID*
 
 {% include youtubePlayer.html id="GI8V8v_-36U" %}
 
+### Lendo a entrada de números reais em Java e exibindo números reais com 4 casas de precisão
+
+{% include youtubePlayer.html id="q1H9HksyXcc" %}
+
+
 ## Referências
 
 * [Apostila de lógica de programação em Java - K19](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
