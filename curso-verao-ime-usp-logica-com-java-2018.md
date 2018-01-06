@@ -33,6 +33,14 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 **Período Final:** 17/01/2018
 
+## Instalação do JDK no Windows e Configuração da variável de ambiente
+
+Para instalar o JDK no Windows, vocês seguir as instruções deste site:
+
+https://loiane.training/unit/02-instalando-o-java-no-windows-10/
+
+
+
 ## Lista de exercícios
 
 Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.urionlinejudge.com.br). Para mais informações sobre como ter acesso a lista, basta ver os tutoriais disponibilizados através de vídeos abaixo.
