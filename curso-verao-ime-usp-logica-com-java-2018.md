@@ -37,7 +37,7 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 Para instalar o JDK no Windows, vocês seguir as instruções deste site:
 
-https://loiane.training/unit/02-instalando-o-java-no-windows-10/
+[https://loiane.training/unit/02-instalando-o-java-no-windows-10/](https://loiane.training/unit/02-instalando-o-java-no-windows-10/)
 
 
 
