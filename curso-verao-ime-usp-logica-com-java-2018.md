@@ -57,8 +57,6 @@ Lembre-se, para acessar a lista de exercícios é necessário enviar o seu **ID*
 
 {% include youtubePlayer.html id="GI8V8v_-36U" %}
 
-
-
 ## Referências
 
 * [Apostila de lógica de programação em Java - K19](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
