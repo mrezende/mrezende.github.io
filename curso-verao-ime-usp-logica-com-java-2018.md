@@ -39,7 +39,7 @@ Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.
 
 ## Exercícios
 
-Foi disponibilizado uma lista de exercícios para quem enviou o **ID** para mim. Para as pessoas que **não** conseguiram enviar o **ID**, podem tentar resolver os exercícios do 1001 até 1020.
+Foi disponibilizado uma lista de exercícios para quem enviou o **ID** para mim. Para as pessoas que **não** conseguiram enviar o **ID**, podem tentar resolver os exercícios do 1001 até 1020 do nível iniciante do site [UriOnlineJudge](https://www.urionlinejudge.com.br).
 
 ### Fazendo o cadastro no URI Online Judge
 {% include youtubePlayer.html id="qIDpG61jzvk" %}
