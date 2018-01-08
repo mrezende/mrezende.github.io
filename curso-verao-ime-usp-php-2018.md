@@ -4,7 +4,7 @@ title: Introdução ao Desenvolvimento de Sistemas Web com PHP
 permalink: /curso-verao-ime-usp-php-2018/
 ---
 
-# Curso de Verão 2017
+# Curso de Verão 2018
 
 ## Introdução ao Desenvolvimento de Sistemas Web com PHP
 
@@ -20,9 +20,9 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 **Sala:** CEC-06
 
-**Período Inicial:** 06/02/2017
+**Período Inicial:** 18/01/2018
 
-**Período Final:** 17/02/2017
+**Período Final:** 02/02/2018
 
 ## Aulas
 
@@ -63,199 +63,6 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 #### Aula 10
 * [Exercícios sobre validacao](https://gist.github.com/mrezende/fabfdb0d896899e3240768edab4c41c1)
 * [Exercícios sobre sessão](https://gist.github.com/mrezende/bea31a782bc92086928025102b5b7242)
-
-
-## Projeto Final
-
-### Projeto 1 - Curso de verão
-
-Criar um sistema de cadastro de alunos nos cursos de verão. Basicamente as entidades são:
-
-* Aluno
-* Professor
-* Curso
-* Turma
-* Inscricao
-
-![Summer School Entity Relationship Diagram](https://mrezende.github.io/assets/curso-verao.png)
-
-##### Entrega
-
-Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
-
-[Tarefa curso de verão](https://classroom.github.com/assignment-invitations/8fbdc51169d0002ad503d7883504261f)
-
-Após clicar na tarefa, basta seguir os passos abaixo:
-
-1 - Fazer o download do repositório criado:
-
-```sh
-git clone https://github.com/summer-school-ime-usp-2017/final-project-curso-verao-<USUARIO_GITHUB>.git
-
-```
-
-2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
-
-```sh
-composer install
-```
-
-3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
-
-```sh
-# linux
-cp .env.example .env
-
-#windows
-copy .env.example .env
-```
-
-4 - Gere a chave e limpe a configuração:
-
-```sh
-php artisan key:generate
-
-php artisan config:clear
-```
-
-5 - Execute o servidor e verifique que está rodando normalmente:
-
-```
-php artisan serve
-```
-
-Acesse http://localhost:8000.
-
-Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
-
-### Projeto 2 - Laboratório
-
-Criar um sistema de cadastro de pedidos de exames. Neste sistema, teremos basicamente 4 entidades:
-
-* Paciente
-* Médico
-* Exame
-* Pedido
-
-![Laboratory Entity Relationship Diagram](https://mrezende.github.io/assets/laboratorio.png)
-
-##### Entrega
-
-Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
-
-[Tarefa laboratório](https://classroom.github.com/assignment-invitations/a9ef6c927c5fac38672cb0d65fb801c4)
-
-Após clicar na tarefa, basta seguir os passos abaixo:
-
-1 - Fazer o download do repositório criado:
-
-```sh
-git clone https://github.com/summer-school-ime-usp-2017/final-project-laboratorio-<USUARIO_GITHUB>.git
-
-```
-
-2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
-
-```sh
-composer install
-```
-
-3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
-
-```sh
-# linux
-cp .env.example .env
-
-#windows
-copy .env.example .env
-```
-
-4 - Gere a chave e limpe a configuração:
-
-```sh
-php artisan key:generate
-
-php artisan config:clear
-```
-
-5 - Execute o servidor e verifique que está rodando normalmente:
-
-```
-php artisan serve
-```
-
-Acesse http://localhost:8000.
-
-Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
-
-### Projeto 3 - Livre
-
-Crie um sistema de cadastro utilizando o Laravel, o contexto da aplicação pode ser livre. O único requisito é ter no mínimo **4 (quatro) entidades** e pelo menos **2 (duas) entidades** devem relacionar-se entre si através de um relacionamento **1-1**, **1-N** ou **N-N**.
-
-##### Entrega
-
-Para entrega do sistema foi provindenciado uma tarefa no Github Classroom. Basta clicar no link abaixo:
-
-[Tarefa projeto livre](https://classroom.github.com/assignment-invitations/f94b980a36bd4f44c41248ac93d7c889)
-
-Após clicar na tarefa, basta seguir os passos abaixo:
-
-1 - Fazer o download do repositório criado:
-
-```sh
-git clone https://github.com/summer-school-ime-usp-2017/final-project-projeto-livre-<USUARIO_GITHUB>.git
-```
-
-2 - Após o download, entre na pasta do projeto e execute o comando abaixo para instalar as bibliotecas:
-
-```sh
-composer install
-```
-
-3 - Copie o arquivo **.env.example** para um arquivo chamado **.env**.
-
-```sh
-# linux
-cp .env.example .env
-
-#windows
-copy .env.example .env
-```
-
-4 - Gere a chave e limpe a configuração:
-
-```sh
-php artisan key:generate
-
-php artisan config:clear
-```
-
-5 - Execute o servidor e verifique que está rodando normalmente:
-
-```
-php artisan serve
-```
-
-Acesse http://localhost:8000.
-
-
-Após executar estes passos, basta desenvolver o projeto e enviar todas as alterações para o Github até dia 05 de Março de 2017.
-
-**Prazo máximo para entrega:** 05/Março
-
-## Avaliação Final
-
-```
-NF: (N1 + 3 * N2)/4
-
-NF >= 5 && FM >= 85% => aprovado
-
-NF: Nota Final, [0, 10]
-FM: Frequência mínima, [0, 100%]
-N1: Nota dos exercícios vistos em aula, [0, 10]
-N2: Nota do Projeto final, [0, 10]
-
-```
 
 # Instalação Laravel Linux
 
