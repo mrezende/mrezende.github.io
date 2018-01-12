@@ -35,7 +35,7 @@ O objetivo do curso é abordar os conceitos básicos de programação. Estes con
 
 ## Instalação do JDK no Windows e Configuração da variável de ambiente
 
-Para instalar o JDK no Windows, vocês seguir as instruções deste site:
+Para instalar o JDK no Windows, basta seguir as instruções deste site:
 
 [https://loiane.training/unit/02-instalando-o-java-no-windows-10/](https://loiane.training/unit/02-instalando-o-java-no-windows-10/)
 
@@ -43,7 +43,7 @@ Para instalar o JDK no Windows, vocês seguir as instruções deste site:
 
 ## Lista de exercícios
 
-Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.urionlinejudge.com.br). Para mais informações sobre como ter acesso a lista, basta ver os tutoriais disponibilizados através de vídeos abaixo.
+Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.urionlinejudge.com.br).
 
 ## Exercícios
 
@@ -93,6 +93,10 @@ Lista de exercícios será disponibilizada no site [UriOnlineJudge](https://www.
 4.	[1175 - Troca em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175)
 5.	[1179 - Preenchimento de Vetor IV](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179)
 6.	[1180 - Menor e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180)
+
+## Acesso a lista de exercícios no UriOnlineJudge
+
+Para mais informações sobre como ter acesso a lista, basta ver os tutoriais disponibilizados através dos vídeos abaixo.
 
 ### Fazendo o cadastro no URI Online Judge
 {% include youtubePlayer.html id="qIDpG61jzvk" %}
