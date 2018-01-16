@@ -122,5 +122,5 @@ Lembre-se, para acessar a lista de exercícios é necessário enviar o seu **ID*
 ## Referências
 
 * [Apostila de lógica de programação em Java - K19](https://mrezende.github.io/assets/apostila-logica-de-programacao-java-k19.pdf)
-* [URI Online Judge](www.urionlinejudge.com.br)
-* [Hacker Rank](www.hackerrank.com/)
+* [URI Online Judge](https://www.urionlinejudge.com.br)
+* [Hacker Rank](https://www.hackerrank.com/)
