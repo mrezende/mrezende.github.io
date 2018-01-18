@@ -91,5 +91,5 @@ Basta instalar o Laravel utilizando as dicas deste site:
 * [PHP](http://php.net/manual/en/langref.php)
 * [Guia prático do GIT](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Bootstrap](http://getbootstrap.com/)
-* [Laravel](https://laravel.com/docs/5.4/)
+* [Laravel](https://laravel.com/)
 * [Sass Basic](http://sass-lang.com/guide)
