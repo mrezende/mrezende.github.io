@@ -29,23 +29,29 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 #### Aula 1
 * [Exercícios de lógica](https://gist.github.com/mrezende/788289758ec5139d6300a77f21c3dcfe)
 
-#### Aula 2
+* [Exemplos de lógica feitos em aula](https://github.com/mrezende/logica)
+
+#### Aula 2 e 3
 
 * [Exercícios de OO](https://gist.github.com/mrezende/0e766190493fd6bc0b8b7ffdd7e99300)
 
-#### Aula 3
-* [Exercícios de agregação, associação e composição](https://gist.github.com/mrezende/a8ca3c7ea47aba794cb25ce30f552566)
-* [Exercícios de métodos](https://gist.github.com/mrezende/5ad5a4488b6b16f479114d0063366d51)
-* [Exercícios de construtores](https://gist.github.com/mrezende/3b21b6ee2b34e3d12e0bacefc9314f44)
+* [Exemplos de OO, MySQL, formulário HTML feitos em aula](https://github.com/mrezende/orientacao-objetos)
 
 #### Aula 4
-* [Exercícios de arrays](https://gist.github.com/mrezende/36ef5601db040e7c3fad1ec8113aa8ee)
-* [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
+
+* [Exercícios de métodos](https://gist.github.com/mrezende/5ad5a4488b6b16f479114d0063366d51)
+
+* [Exemplos de métodos feitos em aula](https://github.com/mrezende/metodos)
 
 #### Aula 5
-* [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
+* [Exercícios de agregação, associação e composição](https://gist.github.com/mrezende/a8ca3c7ea47aba794cb25ce30f552566)
+* [Exercícios de construtores](https://gist.github.com/mrezende/3b21b6ee2b34e3d12e0bacefc9314f44)
+* [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
+
 
 #### Aula 6
+* [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
+
 * [Exercícios do primeiro projeto com Laravel](https://gist.github.com/mrezende/1c72b77db845696da8bce55aea00acc3)
 
 
@@ -63,6 +69,26 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 #### Aula 10
 * [Exercícios sobre validacao](https://gist.github.com/mrezende/fabfdb0d896899e3240768edab4c41c1)
 * [Exercícios sobre sessão](https://gist.github.com/mrezende/bea31a782bc92086928025102b5b7242)
+
+# Página dos alunos no Github
+
+| Nome        |    Usuário do Github |
+| ------------- |:-------------:|
+| Juliana de Camilo | https://github.com/jucamillo/ |
+| Ricardo Praxedes | https://github.com/ricardopraxedes      |
+| Paulo Silas | https://github.com/fightpaulo      |
+| Antonio Augusto Lopes | https://github.com/aalopes97/ |
+| Isaque Dias Malta | https://github.com/jackmalta  |
+| Victor Savoia | https://github.com/victor-savoia  |
+| Eveline Dias da Silva | https://github.com/evelinesilva |
+| Fabio Carvalho de Souza | https://github.com/Fabio343  |
+| Teodoro Mendes Neto | https://github.com/teomneto |
+| Sidonio Amorim de Oliveira | https://github.com/mrsmithsee |
+| Lais Renata Rosa | https://github.com/lais1 |
+| Felipe Yoshimoto | https://github.com/felipeyoshi |
+| Felipe Borges dos Santos | https://github.com/fborgesd |
+| Nicolas Kassalias | https://github.com/nicolaskassalias |
+
 
 # Instalação Laravel Linux
 
