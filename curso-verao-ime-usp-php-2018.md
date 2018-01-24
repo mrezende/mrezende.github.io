@@ -74,20 +74,20 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 | Nome        |    Usuário do Github |
 | ------------- |:-------------:|
-| Juliana de Camilo | https://github.com/jucamillo/ |
-| Ricardo Praxedes | https://github.com/ricardopraxedes      |
-| Paulo Silas | https://github.com/fightpaulo      |
-| Antonio Augusto Lopes | https://github.com/aalopes97/ |
-| Isaque Dias Malta | https://github.com/jackmalta  |
-| Victor Savoia | https://github.com/victor-savoia  |
-| Eveline Dias da Silva | https://github.com/evelinesilva |
-| Fabio Carvalho de Souza | https://github.com/Fabio343  |
-| Teodoro Mendes Neto | https://github.com/teomneto |
-| Sidonio Amorim de Oliveira | https://github.com/mrsmithsee |
-| Lais Renata Rosa | https://github.com/lais1 |
-| Felipe Yoshimoto | https://github.com/felipeyoshi |
-| Felipe Borges dos Santos | https://github.com/fborgesd |
-| Nicolas Kassalias | https://github.com/nicolaskassalias |
+| Juliana de Camilo | [https://github.com/jucamillo/](https://github.com/jucamillo/) |
+| Ricardo Praxedes | [https://github.com/ricardopraxedes](https://github.com/ricardopraxedes) |
+| Paulo Silas | [https://github.com/fightpaulo](https://github.com/fightpaulo) |
+| Antonio Augusto Lopes | [https://github.com/aalopes97/](https://github.com/aalopes97/) |
+| Isaque Dias Malta | [https://github.com/jackmalta](https://github.com/jackmalta)  |
+| Victor Savoia | [https://github.com/victor-savoia](https://github.com/victor-savoia)  |
+| Eveline Dias da Silva | [https://github.com/evelinesilva](https://github.com/evelinesilva) |
+| Fabio Carvalho de Souza | [https://github.com/Fabio343](https://github.com/Fabio343)  |
+| Teodoro Mendes Neto | [https://github.com/teomneto](https://github.com/teomneto) |
+| Sidonio Amorim de Oliveira | [https://github.com/mrsmithsee](https://github.com/mrsmithsee) |
+| Lais Renata Rosa | [https://github.com/lais1](https://github.com/lais1) |
+| Felipe Yoshimoto | [https://github.com/felipeyoshi](https://github.com/felipeyoshi) |
+| Felipe Borges dos Santos | [https://github.com/fborgesd](https://github.com/fborgesd) |
+| Nicolas Kassalias | [https://github.com/nicolaskassalias](https://github.com/nicolaskassalias) |
 
 
 # Instalação Laravel Linux
