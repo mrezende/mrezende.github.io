@@ -88,6 +88,8 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 | Felipe Yoshimoto | [https://github.com/felipeyoshi](https://github.com/felipeyoshi) |
 | Felipe Borges dos Santos | [https://github.com/fborgesd](https://github.com/fborgesd) |
 | Nicolas Kassalias | [https://github.com/nicolaskassalias](https://github.com/nicolaskassalias) |
+| Michelle Nunes | https://github.com/michellenm |
+
 
 
 # Instalação Laravel Linux
