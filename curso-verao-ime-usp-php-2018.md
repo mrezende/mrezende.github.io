@@ -51,7 +51,6 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 #### Aula 6
 * [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
-
 * [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
 
 #### Aula 7
