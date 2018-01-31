@@ -274,9 +274,6 @@ Instalar o XAMPP. Basta acessar o site [https://www.apachefriends.org/pt_br/inde
 
 Instalar o composer a partir do site [https://getcomposer.org/](https://getcomposer.org/)
 
-Basta instalar o Laravel utilizando as dicas deste site:
-[http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html](http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html)
-
 
 ## Referências
 

@@ -50,20 +50,21 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 
 
 #### Aula 6
+* [Exercícios de atributos e métodos de classe](https://gist.github.com/mrezende/a81a3c7fdd2c7b9f76429871da692ce2)
+
 * [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
 
+#### Aula 7
+* [Exercícios de herança](https://gist.github.com/mrezende/c2d6a2a873c6e0377c2fecc897521004)
 * [Exercícios do primeiro projeto com Laravel](https://gist.github.com/mrezende/1c72b77db845696da8bce55aea00acc3)
 
 
-#### Aula 7
+#### Aula 8
 * [Exercícios sobre views](https://gist.github.com/mrezende/59f78c082accf6ad57fcef8ded32fc28)
 * [Exercícios sobre layout](https://gist.github.com/mrezende/e06fd1657954f8136210cf2464c690f6)
 
-
-#### Aula 8
-* [Exercícios sobre Eloquent](https://gist.github.com/mrezende/af431c5ce7380563968bda5e64c223e0)
-
 #### Aula 9
+* [Exercícios sobre Eloquent](https://gist.github.com/mrezende/af431c5ce7380563968bda5e64c223e0)
 * [Exercícios sobre controller](https://gist.github.com/mrezende/5ec5490ef8343634162d1d06389d515a)
 
 #### Aula 10
@@ -103,14 +104,9 @@ echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
 
 # Instalação Laravel Windows
 
-By [@maza-php16](https://github.com/maza-php16)
-
 Instalar o XAMPP. Basta acessar o site [https://www.apachefriends.org/pt_br/index.html](https://www.apachefriends.org/pt_br/index.html)
 
 Instalar o composer a partir do site [https://getcomposer.org/](https://getcomposer.org/)
-
-Basta instalar o Laravel utilizando as dicas deste site:
-[http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html](http://guiferreiracode.com/2015/08/instalacao-do-laravel-5-no-windows-curso-gratis-laravel-de-a-a-z.html)
 
 
 ## Referências
