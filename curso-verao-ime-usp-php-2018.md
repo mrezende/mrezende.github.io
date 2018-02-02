@@ -89,7 +89,7 @@ O intuito deste curso é abordar o desenvolvimento de sistemas web utilizando a 
 | Felipe Borges dos Santos | [https://github.com/fborgesd](https://github.com/fborgesd) |
 | Nicolas Kassalias | [https://github.com/nicolaskassalias](https://github.com/nicolaskassalias) |
 | Michelle Nunes | [https://github.com/michellenm](https://github.com/michellenm) |
-| Donizetto José Guilherme | [https://github.com/guilhermejose](https://github.com/guilhermejose) |
+| Donizetti José Guilherme | [https://github.com/guilhermejose](https://github.com/guilhermejose) |
 
 
 
