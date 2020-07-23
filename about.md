@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Marcelo de Rezende Martins, I'm a sofware developer at FAPESP, a public foundation at Sao Paulo, Brazil, which supports research projects in higher education and research institutions. I'm finishing my master's degree at IPT on machine learning and NLP. Now, I'm trying to learn how machine learns and how we could apply those knowledge in our daily basis. Apart from that, I like running, reading books and eat paçoca (brazilian candy).
 
 
-[jekyll-organization]: https://github.com/jekyll

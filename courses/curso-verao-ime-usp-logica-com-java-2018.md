@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introdução ao Desenvolvimento de Sistemas Web com PHP
+title: Lógica de Proagramação em Java - Curso de Verão da USP 2018
 permalink: /curso-verao-ime-usp-logica-com-java-2018/
 ---
 
