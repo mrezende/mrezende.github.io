@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courses and my teachings at Summer schools in USP
+title: Courses and my teachings
 categories: courses
 ---
 ### Summer School at USP 2018
