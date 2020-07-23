@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lógica de Proagramação em Java - Curso de Verão da USP 2018
-permalink: /curso-verao-ime-usp-logica-com-java-2018/
 ---
 
 # Curso de Verão 2018

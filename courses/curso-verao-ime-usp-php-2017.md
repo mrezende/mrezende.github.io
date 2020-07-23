@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Introdução ao Desenvolvimento de Sistemas Web com PHP - Curso de Verão da USP 2017
-permalink: /curso-verao-ime-usp-php-2017/
 ---
 
 # Curso de Verão 2017
