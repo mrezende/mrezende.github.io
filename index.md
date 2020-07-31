@@ -7,3 +7,14 @@
 #
 layout: home
 ---
+
+# Research interests
+
+I'm interested in how a machine learns and how we could apply those knowledge in our daily basis. Currently, I'm working on an analysis and evaluation of deep learning techniques applied to code retrieval.
+
+## Publications
+
+(A preliminary study about deep learning techniques applied to code retrieval (Portuguese))[https://sol.sbc.org.br/index.php/vem/article/view/7589]
+
+DE REZENDE MARTINS, Marcelo; GEROSA, Marco Aurélio. WORKSHOP ON SOFTWARE VISUALIZATION (VEM), 1., 2019, Salvador. Proceedings of the 7th Workshop on Software Visualization, Evolution and Maintenance (VEM).
+
