@@ -16,6 +16,7 @@ I'm interested in how a machine learns and how we could apply those knowledge in
 ## Publications
 
 [CoNCRA: A Convolutional Neural Network Code Retrieval Approach](https://arxiv.org/abs/2009.01959)
+
 Marcelo de Rezende Martins and Marco A. Gerosa. SBES, 2020, Natal, Brazil.
 
 [A preliminary study about deep learning techniques applied to code retrieval (Portuguese)](https://sol.sbc.org.br/index.php/vem/article/view/7589)
