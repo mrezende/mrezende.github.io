@@ -11,7 +11,7 @@ title: Home
 
 ## Research interests
 
-I'm interested in how a machine learns and how we could apply those knowledge in our daily basis. Currently, I'm working on an analysis and evaluation of deep learning techniques applied to code retrieval.
+I'm interested in machine learning, neural networks and how we could apply those knowledge in our daily basis. 
 
 ## Publications
 
